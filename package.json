@@ -1,5 +1,5 @@
 {
-  "name": "@gamut/cryptex",
+  "name": "@kristiandupont/cryptex",
   "version": "1.0.2",
   "description": "Secure secret storage and cryptographic key retrieval for Node.js",
   "main": "src/index.js",
